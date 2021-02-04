@@ -1,2 +1,7 @@
 # Data_Science_Capstone_Final
-this is the final project of the course Data Science.
+
+This is the final project of the course Data Science.
+
+The app is in shiny : (Predict_Text)[https://x0cristian0x.shinyapps.io/Predict_Text/]
+
+
